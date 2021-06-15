@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Calculator
 
 ### UI SOURCE: https://dribbble.com/shots/14709020-Calculator
 
