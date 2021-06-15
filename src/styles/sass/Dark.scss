@@ -1,0 +1,31 @@
+$screen: #22252d;
+.Dark {
+    background-color: $screen;
+    .Screen {
+        background-color: $screen;
+
+        .theme {
+            a {
+                background-color: #292d36;
+            }
+        }
+        .board {
+            .current {
+                color: #ffff;
+            }
+
+            .prev {
+                color: #f6f6f6;
+            }
+        }
+    }
+
+    .Pad {
+        background-color: #292d36;
+        button {
+            background-color: #272b33;
+            color: #fcfcfc;
+        }
+
+    }
+}
